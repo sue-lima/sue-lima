@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=sue-lima&color=5129c4)
 
-<img align="right" width="500px" src="https://github.com/sue-lima/Green-Thumb/assets/54121204/c8a94895-4b33-4b25-b931-07cd9a233cce"/>
+<img align="right" width="400px" src="https://github.com/sue-lima/Green-Thumb/assets/54121204/c8a94895-4b33-4b25-b931-07cd9a233cce"/>
 
 # 👋Oiie, seja bem-vindo(a)
 #### Meu nome é Suelen mas pode me chamar de Su!
