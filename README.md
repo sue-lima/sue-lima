@@ -1,16 +1,22 @@
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=sue-lima&color=5129c4)
 
-<!--
-**sue-lima/sue-lima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width="500px" src="https://github.com/sue-lima/Green-Thumb/assets/54121204/c8a94895-4b33-4b25-b931-07cd9a233cce"/>
 
-Here are some ideas to get you started:
+# 👋Oiie, seja bem-vindo(a)
+#### Meu nome é Suelen mas pode me chamar de Su!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Desenvolvedora front-end
+- 👩🏻‍🎓 Formada em Engenharia de computação
+- 🎨 Entusiasta de UX/UI design
+- 📍 São Paulo - SP
+
+
+# 🚀Tecnologias e Habilidades
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40"/> 
+
+#
+<div>
+<a href="https://github.com/sue-lima">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sue-lima&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=sue-lima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
