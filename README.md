@@ -4,7 +4,7 @@
 
 
 # 👋Oiie, seja bem-vindo(a)
-#### Meu nome é Suelen mas, pode me chamar de Su!
+#### Meu nome é Suelen, mas pode me chamar de Su!
 
 - 💻 Desenvolvedora front-end
 - 👩🏻‍🎓 Formada em Engenharia de computação
